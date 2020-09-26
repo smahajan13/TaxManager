@@ -1,0 +1,14 @@
+D:\Danske-it\MunicipalityTaxApp\TaxManagerApp\TaxManager.Service\bin\Debug\netcoreapp3.1\TaxManager.Service.deps.json
+D:\Danske-it\MunicipalityTaxApp\TaxManagerApp\TaxManager.Service\bin\Debug\netcoreapp3.1\TaxManager.Service.dll
+D:\Danske-it\MunicipalityTaxApp\TaxManagerApp\TaxManager.Service\bin\Debug\netcoreapp3.1\TaxManager.Service.pdb
+D:\Danske-it\MunicipalityTaxApp\TaxManagerApp\TaxManager.Service\obj\Debug\netcoreapp3.1\TaxManager.Service.AssemblyInfoInputs.cache
+D:\Danske-it\MunicipalityTaxApp\TaxManagerApp\TaxManager.Service\obj\Debug\netcoreapp3.1\TaxManager.Service.AssemblyInfo.cs
+D:\Danske-it\MunicipalityTaxApp\TaxManagerApp\TaxManager.Service\obj\Debug\netcoreapp3.1\TaxManager.Service.dll
+D:\Danske-it\MunicipalityTaxApp\TaxManagerApp\TaxManager.Service\obj\Debug\netcoreapp3.1\TaxManager.Service.pdb
+D:\Danske-it\MunicipalityTaxApp\TaxManagerApp\TaxManager.Service\obj\Debug\netcoreapp3.1\TaxManager.Service.csprojAssemblyReference.cache
+D:\Danske-it\MunicipalityTaxApp\TaxManagerApp\TaxManager.Service\bin\Debug\netcoreapp3.1\TaxManager.Data.dll
+D:\Danske-it\MunicipalityTaxApp\TaxManagerApp\TaxManager.Service\bin\Debug\netcoreapp3.1\TaxManager.ViewModel.dll
+D:\Danske-it\MunicipalityTaxApp\TaxManagerApp\TaxManager.Service\bin\Debug\netcoreapp3.1\TaxManager.ViewModel.pdb
+D:\Danske-it\MunicipalityTaxApp\TaxManagerApp\TaxManager.Service\bin\Debug\netcoreapp3.1\TaxManager.Data.pdb
+D:\Danske-it\MunicipalityTaxApp\TaxManagerApp\TaxManager.Service\obj\Debug\netcoreapp3.1\TaxManager.Service.csproj.CopyComplete
+D:\Danske-it\MunicipalityTaxApp\TaxManagerApp\TaxManager.Service\obj\Debug\netcoreapp3.1\TaxManager.Service.csproj.CoreCompileInputs.cache
